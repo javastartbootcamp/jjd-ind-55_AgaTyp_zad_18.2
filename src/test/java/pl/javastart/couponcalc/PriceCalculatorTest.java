@@ -184,6 +184,5 @@ public class PriceCalculatorTest {
         // then
         assertThat(result).isEqualTo(6);
     }
-
-
+    
 }
